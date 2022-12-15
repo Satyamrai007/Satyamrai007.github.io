@@ -23,7 +23,7 @@ ul li a{
     border: 1px solid #f46a71;
     background-color: #fccdf3;
     transition: 0.6s ease; 
-    border-radius: 3px;
+    border-radius: 10px;
 }
 
 ul li a:hover {
