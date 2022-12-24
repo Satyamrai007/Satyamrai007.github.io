@@ -39,7 +39,7 @@ ul li a:hover {
  
  #number {
    font-size: 30px;
-   margin-top: 45%;
+   margin-top: 40%;
    color: rgba(0,0,0,0.7);
    text-decoration: none;
  }
@@ -56,4 +56,8 @@ ul li a:hover {
  }
  a:active {
    color: red;
+ }
+ #location {
+   font-size: 22px;
+   color: rgba(0,0,0,0.7);
  }

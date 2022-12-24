@@ -75,3 +75,12 @@ a:link {
  a:active {
    color: red;
  }
+ #Name,#phone,#mail,#appointment,#submit {
+   align-content: center;
+   width: 150px;
+   text-align: left;
+ }
+ #submit {
+   background-color: #c0e3ec;
+ }
+ 
