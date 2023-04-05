@@ -49,8 +49,7 @@ form {
 img {
   width: 100%;
   margin-top: 25px;
-}
-img {
+  height: auto;
   margin-top: -10px;
 }
 body {
