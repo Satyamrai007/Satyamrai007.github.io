@@ -47,10 +47,10 @@ form {
   height: 200%;
 }
 img {
-  width: 50%;
-  margin-top: 25px;
-  height: auto;
-  margin-top: -10px;
+  size: 50% 100%;
+  margin-top: 15px;
+ 
+  
 }
 body {
   background: rgb(0,0,0);
