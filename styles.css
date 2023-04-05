@@ -41,15 +41,17 @@ form {
   background-image: url('Pedi.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  width:100%;
+  width:50%;
   text-align: center;
   margin-top: -5px;
-  height: 200%;
+  height: 50%;
+  display: flex;
 }
 img {
   width: 50%;
   height: 50%;
   margin-top: 15px;
+    display: flex;
  
   
 }
